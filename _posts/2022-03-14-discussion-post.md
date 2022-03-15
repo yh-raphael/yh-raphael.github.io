@@ -1,11 +1,12 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2019-04-18T15:34:30-04:00
+title: "ML in Production I3 - Discussion Post"
+date: 2022-03-14T15:34:30-04:00
 categories:
   - blog
 tags:
   - Jekyll
   - update
+  - elasticsearch
 ---
 
 https://canvas.cmu.edu/courses/27908/discussion_topics/412073
